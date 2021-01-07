@@ -24,5 +24,5 @@ The measures taken by governments around the globe to have the pandemic under co
 
 ## Hypothesis:
 
-![](hypo/Hypothesis%20Table.PNG)
+
 
