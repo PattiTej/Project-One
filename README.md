@@ -28,7 +28,7 @@ Factor: New Covid-19 outbreaks or mutation of Covid-19 against the vaccines
 
 Independent Variable 1: If vaccine is effective and supply is efficient in 2021
 
-      1.	Economic recovery will put pressure on Bitcoin and Gold prices
+      1. Economic recovery will put pressure on Bitcoin and Gold prices
       2. USD will be attractive again
 
 Independent Variable 2: If there is a limited supply of vaccine or efficiency is lost due to virus mutation
