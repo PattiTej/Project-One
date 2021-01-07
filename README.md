@@ -24,5 +24,16 @@ The measures taken by governments around the globe to have the pandemic under co
 
 ## Hypothesis:
 
+Factor: New Covid-19 outbreaks or mutation of Covid-19 against the vaccines
+
+Independent Variable 1: If vaccine is effective and supply is efficient in 2021
+
+      1.	Economic recovery will put pressure on Bitcoin and Gold prices
+      2. USD will be attractive again
+
+Independent Variable 2: If there is a limited supply of vaccine or efficiency is lost due to virus mutation
+
+      1. More or prolonged quarantine time or lockdowns which will result to additional stimulus package boosting safe haven assets
+      2. Pressure on the value of the USD
 
 
