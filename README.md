@@ -1,5 +1,12 @@
 # Traditional Currency vs Paper Currency vs Cryptocurrency – which one should we invest in? 
 
+## Table of Contents
+
+    * Introduction
+    * Purpose of the Project
+    * Hypothesis
+    * Technologies
+
 ## Introduction:
 
 It was only more than a decade ago when the world was brought to its knees by what is called the Global Financial Crisis (“GFC”) brought about by the housing bubble in the United States coupled with the excessive risk-taking behaviour by the banking sector. Now, the world is facing another global recession brought on by the Covid-19 pandemic. To say that the Covid-19 induced global recession could well be worse than the GFC may not be entirely false. The stock market crash in February of 2020 through end of March is seen as quick but the recession (and in some other countries, even a depression) was more lasting. There are predictions that some countries will only bounce back by year 2025. 
