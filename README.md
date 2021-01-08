@@ -6,6 +6,7 @@
     * Purpose of the Project
     * Hypothesis
     * Technologies
+    * Choice of Data Source and Cleaning
     * Calculations
 
 
@@ -50,6 +51,37 @@ Independent Variable 2: If there is a limited supply of vaccine or efficiency is
    * Bokeh
 
 
+## Choice of Data Source and Cleaning
+
+We have examined multiple data sources such as Alpaca, Quandl, FXCM, Alpha Vantage, Investing.com and Yahoo Finance.
+
+### Alpaca 
+Not Selected, as No Avaliable Data from Alpaca.
+
+### Quandl 
+Not Selected, as Missing Volume Data from Quandl.
+
+### FXCM 
+Not Selected, due to: 
+
+         1) "tick quantity" is not volume but just an approximate for volume, and 
+         2) need to convert the spread of bid/ask close to mid-close price.
+
+### Alpha Vantage 
+Not Selected, due to missing data for 2017.
+
+### Investing.com 
+Not Selected, due to: 
+
+         1) No Volume Data from Investing.
+         2) Extra cleaning need for Vol.
+         
+         However, Investing provides other useful data which might be used for the project, such as M2 money supply of USD. But, there is a large amount of missing daily data.
+         
+### Yahoo Finance
+We have checked the data types, duplications, and missing data.  Yahoo Finance is Selected, as it provides highest data quality compared to other sources.
+
+
 ## Calculations
 
    * Historical daily returns
@@ -60,6 +92,8 @@ Independent Variable 2: If there is a limited supply of vaccine or efficiency is
    * Rolling standard deviation using a 21-day window of each portfolio
    * Correlation during the "normal period" and "pandemic period"
    * Covariance, variance and rolling Beta during the "normal period" and "pandemic period"
+
+
 
 
 
