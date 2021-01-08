@@ -50,7 +50,7 @@ Independent Variable 2: If there is a limited supply of vaccine or efficiency is
    * Bokeh
 
 
-## Calculationa
+## Calculations
 
    * Historical daily returns
    * Cumulative returns of all portfolios
