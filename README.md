@@ -6,6 +6,8 @@
     * Purpose of the Project
     * Hypothesis
     * Technologies
+    * Calculations
+
 
 ## Introduction:
 
@@ -13,14 +15,15 @@ It was only more than a decade ago when the world was brought to its knees by wh
 
 The measures taken by governments around the globe to have the pandemic under control included nationwide lockdowns and border closures which impacted trade and commerce both domestically and internationally. Tourism and hospitality are industries most negatively impacted resulting to significant rise in unemployment in these sectors. Consequently, unemployment caused food insecurity and rental and mortgage defaults. Governments around the globe had to step in to respond to the crisis by legislating stimulus packages which include monetary and/or fiscal stimulus to help businesses and individuals economically impacted by the pandemic. Stimulus packages calls for increased government spending and lowering of interest rates to fill in the output gaps in the economy. One effect of lowering interest rates is that the currency becomes less attractive to foreign investments thus weakening the exchange rate of the currency. This being said, how did the Covid-19 pandemic affect the US dollar as compared to gold and cryptocurrencies like the Bitcoin? Which of these currencies have responded negatively or positively to the pandemic and therefore which should one invest in considering that another black swan event like the Covid-19 pandemic may take place again?
 
-## Purpose of the Project: 
 
+## Purpose of the Project: 
 
     1.	Identify the best performing type of currency during a “normal period” and during the “pandemic period”.  Currencies under consideration are the USD, Gold, and the     Bitcoin. 
     
     2.	Provide simulated performances for each type of currency for both a “normal period” and a “pandemic period” to yield a forecast that will help illustrate which type of currency to invest in during “normal period” and a “pandemic period”.  
     
 3.	Provide a visualisation of the findings based on the analysis conducted. 
+
 
 ## Hypothesis:
 
@@ -35,5 +38,30 @@ Independent Variable 2: If there is a limited supply of vaccine or efficiency is
 
       1. More or prolonged quarantine time or lockdowns which will result to additional stimulus package boosting safe haven assets
       2. Pressure on the value of the USD
+
+
+## Technologies
+
+   * Python language
+   * NumPy
+   * Matplotlib
+   * Plotly
+   * Seaborn
+   * Bokeh
+
+
+## Calculationa
+
+   * Historical daily returns
+   * Cumulative returns of all portfolios
+   * Averages for "normal period" and "pandemic period"
+   * Daily standard deviation of all portfolios
+   * Rolling moving averages for "normal period" and "pandemic period"
+   * Rolling standard deviation using a 21-day window of each portfolio
+   * Correlation during the "normal period" and "pandemic period"
+   * Covariance, variance and rolling Beta during the "normal period" and "pandemic period"
+
+
+
 
 
